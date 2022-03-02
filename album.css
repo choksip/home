@@ -1,0 +1,41 @@
+p
+{
+	text-align: center;
+	font-size: 15pt;
+	line-height: 20pt;
+}
+body
+{
+	background-color: #F5F5F5;
+	font-family: sans-serif;
+	color: black;
+	font-family: serif;
+}
+h1
+{
+	text-align:justify;
+	color:#B2C891;
+	font-size:20pt;
+}
+h2
+{
+	font-style:italic;
+	font-size:18pt;
+	text-align:center;
+	color:#B2C891;
+}
+li
+{
+	font-size:19pt;
+}
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.caption
+{
+	font-size:10pt;
+}
